@@ -1,4 +1,4 @@
-# python-twilio-example-apps
+# python-twilio-apps
 Example code built either with 
 [web frameworks](https://www.fullstackpython.com/web-frameworks.html) 
 or without a framework to show how to use 
